@@ -29,13 +29,4 @@ The application handles:
 Built as part of the roadmap.sh project:
 
 https://roadmap.sh/projects/github-user-activity
-- Export results to JSON/CSV
-- Colored terminal output
-- Async requests
-- Commit-level analytics
 
----
-
-# License
-
-This project is open-source and free to use.
